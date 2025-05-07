@@ -1,0 +1,36 @@
+[submodule "ci-cd"]
+	path = ci-cd
+	url = git@github.com:thiago1souto/learning-ci-cd.git
+[submodule "kubernetes/secrets"]
+	path = kubernetes/secrets
+	url = git@github.com:thiago1souto/learning-kubernetes-secrets.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:thiago1souto/learning-scripts.git
+[submodule "kubernetes/statefulsets"]
+	path = kubernetes/statefulsets
+	url = git@github.com:thiago1souto/learning-kubernetes-statefulsets.git
+[submodule "kubernetes/pv-pvc"]
+	path = kubernetes/pv-pvc
+	url = git@github.com:thiago1souto/learning-kubernetes-pv-pvc.git
+[submodule "kubernetes/configmaps"]
+	path = kubernetes/configmaps
+	url = git@github.com:thiago1souto/learning-kubernetes-configmaps.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:thiago1souto/learning-ansible.git
+[submodule "kubernetes/deployments"]
+	path = kubernetes/deployments
+	url = git@github.com:thiago1souto/learning-kubernetes-deployments.git
+[submodule "gitlab"]
+	path = gitlab
+	url = git@github.com:thiago1souto/learning-gitlab.git
+[submodule "github"]
+	path = github
+	url = git@github.com:thiago1souto/learning-github.git
+[submodule "terraform"]
+	path = terraform
+	url = git@github.com:thiago1souto/learning-terraform.git
+[submodule "docker"]
+	path = docker
+	url = git@github.com:thiago1souto/learning-docker.git
